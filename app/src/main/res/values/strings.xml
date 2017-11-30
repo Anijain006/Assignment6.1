@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment6.1</string>
+    <string name="userNameTxtView">Enter The Email Address</string>
+    <string name="userNameEdtTxt">Email ID Here</string>
+
+    <string name="pwdTxtView">Enter The Password</string>
+    <string name="pwdEdtTxt">Password Here</string>
+    <string name="loginBtnTxt">LOGIN</string>
+    <string name="signUpTxt">No account yet? SignUp Now</string>
+</resources>

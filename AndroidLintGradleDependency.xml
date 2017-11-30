@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/build.gradle</file>
+    <line>8</line>
+    <module>Assignment6.1</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.android.tools.build:gradle than 2.1.2 is available: 3.0.1&lt;/html&gt;</description>
+  </problem>
+</problems>
+
